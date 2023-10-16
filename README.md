@@ -1,5 +1,5 @@
 # slidev-snippets
-Some handful snippets for slidev presentations
+Some handy snippets for slidev presentations
 
 ## AutoPlayVideo
 
